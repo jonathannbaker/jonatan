@@ -63,16 +63,14 @@
 <div> 
 <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=#EA4335"></a>
-<a href="[https://www.linkedin.com/in/jonathann-baker/]/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://profile.intra.42.fr/users/hicunha-" target="_blank"><img src="https://img.shields.io/badge/-42 Porto-%23000000?style=for-the-badge&logo=42&logoColor=#000000"></a> 
+<a href="https://www.linkedin.com/in/jonathann-baker/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://profile.intra.42.fr/" target="_blank"><img src="https://img.shields.io/badge/-42 Porto-%23000000?style=for-the-badge&logo=42&logoColor=#000000"></a> 
 </div>&nbsp;&nbsp;
 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  * 💬 I'm a Brazilian living in Portugal, looking for a career transition. I am proficient in English and Spanish. I've been working in logistics since 2010, which has helped me develop important skills such as organization, assertive communication, analytical ability and problem-solving.
-
-  * ⚡ As well as coding, I love games of all types, music of all styles, and I'm an excellent sports viewer! 😬
+  * 🐧 As a Linux developer and mentor in the freelance web space, my GitHub profile reflects my passion for open-source innovation and collaborative development. You'll find a collection of projects showcasing my expertise in Linux systems administration, scripting, and web development. From optimizing server configurations to crafting elegant solutions for web applications, each repository embodies my commitment to excellence and continuous learning. Join me on GitHub as we embrace Linux and empower the freelance web community together! 💻✨ #LinuxDeveloper #Mentor #FreelanceWeb #GitHubProfile
 </details>
 
   
